@@ -3,14 +3,14 @@ import fs from 'fs';
 const style = `#contents {
   margin-left: 15%;
   margin-right: 15%;
-  width: 100%
+  width: 70%
 }
 .ib {
   display:inline-block;
   width: 10%;
 }
 img {
-  width: 70%;
+  width: 100%;
 }`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,

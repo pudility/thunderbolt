@@ -6,7 +6,7 @@ var _fs2 = _interopRequireDefault(_fs);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var style = '#contents {\n  margin-left: 15%;\n  margin-right: 15%;\n  width: 100%\n}\n.ib {\n  display:inline-block;\n  width: 10%;\n}\nimg {\n  width: 70%;\n}',
+var style = '#contents {\n  margin-left: 15%;\n  margin-right: 15%;\n  width: 70%\n}\n.ib {\n  display:inline-block;\n  width: 10%;\n}\nimg {\n  width: 100%;\n}',
     styleTag = '<style>',
     closingStyleTag = '</style>',
     head = '<head>',
