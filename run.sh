@@ -2,6 +2,11 @@
 
 npx babel tools --out-dir out --copy-files
 node ./out/writeMarkdownToHtmlFile.js
-generate-md --layout thomasf-solarizedcssdark --input ./input --output ./output
+generate-md --layout jasonm23-dark --input ./input --output ./output
 node ./out/after.js
-open output/index.html
+# open index.html
+surge --domain thunderbolt.blog
+open 'http://thunderbolt.blog/output/index.html'
+git add .
+git commit -m "Update with new blog post"
+git push -u origin master

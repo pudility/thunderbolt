@@ -7,7 +7,7 @@ const style = `#contents {
 }
 .ib {
   display:inline-block;
-  width: 5%;
+  width: 10%;
 }`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,
@@ -16,7 +16,7 @@ body = `<body>`,
 closingBody = `</body>`,
 div = `<div id="contents">`,
 closingDiv = `</div>`,
-image = `<img class="ib" src="../images/logo.png">`,
+image = `<img class="ib" src="../images/logo_light.png">`,
 header = `<h2 class="ib" >Thunderbolt</h2>`,
 file = __dirname + '/../output/index.html';
 
