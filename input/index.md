@@ -22,9 +22,6 @@ Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone 
 ***
 
 ---
-<!-- # The iPhone X -->
-![iPhone X](../images/iPhoneX_blackBackground.png)
----
 # Hello World
 
 Lets start up this blog! This is the first post. Its mostly just a test. Later today I will write my *actual* first post. Just for kicks, here is a Steve Jobs quote:
