@@ -22,6 +22,19 @@ Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone 
 ***
 
 ---
+# Backgrounds
+
+Recently I was browsing r/worldnews and saw this post:
+>[NASA's $1 Billion Juno Probe Has Been Sending Back Some Jaw-Dropping Photos of Jupiter](https://www.reddit.com/r/worldnews/comments/7bvqnl/nasas_1_billion_juno_probe_has_been_sending_back/)
+
+Loving space, naturally I clicked it. And wow. These photos are amazing. And they are perfect for backgrounds. [Here](https://www.nasa.gov/mission_pages/juno/images/index.html) is the full gallery if you want to take a look.
+
+![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
+
+***
+
+
+---
 # Remap Your Keyboard
 
 Do you use your *caps lock* key? Either way, you may want to consider remapping it. Especially if you have the new MacBook Pro with touch bar, the *escape* key is really hard to hit. Here is what I do, I have my *caps lock* key set to be *escape* when it is pressed alone and *shift+control+option+command* when pressed with another key. Then I have my windows mapped to those keys, so for example when I want to line up chrome in the space I have set aside fore it, I just hit *caps lock+C*.
@@ -42,6 +55,7 @@ Most windows managers will be able to do this. The windows managers that I use a
 - Written & Published: *November 11 2017*
 
 ***
+
 
 ---
 # Hello World
