@@ -1,3 +1,6 @@
+<!-- # The iPhone X -->
+![iPhone X](../images/iPhoneX_blackBackground.png)
+---
 # iPhone Day
 
 Today is iPhone day for me. Most people got their iPhones last week, but last week I did not have the slightest idea I event wanted an iPhone. Before two days ago I had an android phone; More specifically I had the google pixel 2 xl, before that I had the original pixel and before that I had the onePlus. But my android stories are for another day. The reason I decided to switch to IOS is because of the iPhone X. My friend got one and let me use it - I immediately fell in love. I have a mac and an iPad, so IOS is not completely foreign to me. However I do not know all the ins and outs of the OS and I am *so* excited to learn more.
@@ -27,6 +30,9 @@ Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone 
 Lets start up this blog! This is the first post. Its mostly just a test. Later today I will write my *actual* first post. Just for kicks, here is a Steve Jobs quote:
 
 > Your time is limited, so don't waste it living someone else's life.
+
+***
+
 ---
 ### Credits:
 
