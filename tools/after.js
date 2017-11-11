@@ -10,7 +10,7 @@ const style = `#contents {
   width: 10%;
 }
 img {
-  width: 100%;
+  width: 200%;
 }`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,
