@@ -11,6 +11,9 @@ const style = `#contents {
 }
 img {
   width: 100%;
+}
+img:hover {
+  width: 200%;
 }`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,
