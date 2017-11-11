@@ -8,7 +8,7 @@ Yesterday my friend and I went to the apple store near my house. We got their an
 
 ### Today
 
-Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone at the apple store *near my house* (not the one at South Center almost an hour away). Five minutes pas six AM I completed my purchase of the iPhone X, Space gray, 64 GB *with* the apple upgrade program and apple care plus. I am going to pick it up this afternoon - wish me luck.
+Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone at the apple store *near my house* (not the one at South Center almost an hour away). Five minutes past six AM I completed my purchase of the iPhone X, Space gray, 64 GB *with* the apple upgrade program and apple care plus. I am going to pick it up this afternoon - wish me luck.
 
 
 ### Notes
@@ -18,4 +18,5 @@ Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone 
   - They **must** have their ID
 
 - Written & Published: *November 11 2017*
----
+
+***
