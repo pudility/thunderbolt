@@ -8,6 +8,9 @@ const style = `#contents {
 .ib {
   display:inline-block;
   width: 10%;
+}
+img {
+  width: 70%;
 }`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,
