@@ -3,7 +3,7 @@ import fs from 'fs';
 const style = `#contents {
   margin-left: 15%;
   margin-right: 15%;
-  width: 70%
+  width: 100%
 }
 .ib {
   display:inline-block;
