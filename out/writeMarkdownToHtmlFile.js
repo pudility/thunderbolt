@@ -26,6 +26,7 @@ var readFile = function readFile(file, i, l, arr) {
   return new Promise(function (resolve, reject) {
     return _fs2.default.readFile(file, 'utf8', function (err, data) {
       if (err) throw err;
+      if (data.split('@disabled').length === 2) return;
       if (i + 1 === l) final(data, arr);
 
       resolve(data);

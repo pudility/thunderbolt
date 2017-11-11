@@ -15,6 +15,7 @@ const readFile = (file, i, l, arr) =>
   new Promise((resolve, reject) =>
     fs.readFile(file, 'utf8', (err, data) => {
       if (err) throw err;
+      if (data.split('@disabled').length === 2) return;
       if (i + 1 === l) final(data, arr);
 
       resolve(data);
