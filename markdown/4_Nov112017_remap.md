@@ -14,4 +14,7 @@ Do you use your *caps lock* key? Either way, you may want to consider remapping 
 
 Most windows managers will be able to do this. The windows managers that I use are the combination of [Magnet](http://magnet.crowdcafe.com/) and [Optimal Layout](http://most-advantageous.com/optimal-layout/).
 
+### Notes
+- Written & Published: *November 11 2017*
+
 ***
