@@ -1,9 +1,9 @@
 import fs from 'fs';
 
 const style = `#contents {
-  margin-left: 25%;
-  margin-right: 25%;
-  width: 50%
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%
 }
 .ib {
   display:inline-block;
