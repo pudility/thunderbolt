@@ -7,6 +7,7 @@ var _fs2 = _interopRequireDefault(_fs);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var style = '#contents {\n  margin-left: 15%;\n  margin-right: 15%;\n  width: 70%\n}\n.ib {\n  display:inline-block;\n  width: 10%;\n}\nimg {\n  width: 100%;\n}\nimg:hover {\n  width: 200%;\n}',
+    gtag = '<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79370514-3"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\'js\', new Date());\n\n  gtag(\'config\', \'UA-79370514-3\');\n</script>',
     styleTag = '<style>',
     closingStyleTag = '</style>',
     head = '<head>',
@@ -25,6 +26,7 @@ _fs2.default.readFile(file, 'utf8', function (err, data) {
       arr = [];
   arr.push(html);
   arr.push(head);
+  arr.push(gtag);
   arr.push(styleTag);
   arr.push(style);
   arr.push(closingStyleTag);

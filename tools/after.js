@@ -15,6 +15,15 @@ img {
 img:hover {
   width: 200%;
 }`,
+gtag = `<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79370514-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-79370514-3');
+</script>`,
 styleTag = `<style>`,
 closingStyleTag = `</style>`,
 head = `<head>`,
@@ -33,6 +42,7 @@ fs.readFile(file, 'utf8', (err, data) => {
   arr = [];
   arr.push(html)
   arr.push(head)
+  arr.push(gtag)
   arr.push(styleTag)
   arr.push(style)
   arr.push(closingStyleTag)
