@@ -31,6 +31,31 @@ Loving space, naturally I clicked it. And wow. These photos are amazing. And the
 
 ![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
 
+- Written & Published: *November 11 2017*
+
+***
+
+
+---
+# Remap Your Keyboard
+
+Do you use your *caps lock* key? Either way, you may want to consider remapping it. Especially if you have the new MacBook Pro with touch bar, the *escape* key is really hard to hit. Here is what I do, I have my *caps lock* key set to be *escape* when it is pressed alone and *shift+control+option+command* when pressed with another key. Then I have my windows mapped to those keys, so for example when I want to line up chrome in the space I have set aside fore it, I just hit *caps lock+C*.
+
+### How To
+
+1. [Download Karabiner](https://pqrs.org/osx/karabiner/) and install it.
+2. Open "Karabiner-Elements" and click the "Complex Modifications" tab.
+3. Click "Add rule" and then "Import more rules from the Internet...".
+4. Import the second option "Change caps_lock key".
+5. Enable "Change caps_lock key to command+control+option+shift. (Post escape key when pressed alone)" in Karabiner.
+
+### Windows Manager
+
+Most windows managers will be able to do this. The windows managers that I use are the combination of [Magnet](http://magnet.crowdcafe.com/) and [Optimal Layout](http://most-advantageous.com/optimal-layout/).
+
+### Notes
+- Written & Published: *November 11 2017*
+
 ***
 
 
@@ -58,29 +83,6 @@ The only thing that they left out is that glass fiber props break *a lot* more e
 ##### [Here is a photo of my drone. I think it is really pretty, but I'm partial.](../images/drone.jpg)
 
 - Written & Published: *November 12 2017*
-
-***
-
-
----
-# Remap Your Keyboard
-
-Do you use your *caps lock* key? Either way, you may want to consider remapping it. Especially if you have the new MacBook Pro with touch bar, the *escape* key is really hard to hit. Here is what I do, I have my *caps lock* key set to be *escape* when it is pressed alone and *shift+control+option+command* when pressed with another key. Then I have my windows mapped to those keys, so for example when I want to line up chrome in the space I have set aside fore it, I just hit *caps lock+C*.
-
-### How To
-
-1. [Download Karabiner](https://pqrs.org/osx/karabiner/) and install it.
-2. Open "Karabiner-Elements" and click the "Complex Modifications" tab.
-3. Click "Add rule" and then "Import more rules from the Internet...".
-4. Import the second option "Change caps_lock key".
-5. Enable "Change caps_lock key to command+control+option+shift. (Post escape key when pressed alone)" in Karabiner.
-
-### Windows Manager
-
-Most windows managers will be able to do this. The windows managers that I use are the combination of [Magnet](http://magnet.crowdcafe.com/) and [Optimal Layout](http://most-advantageous.com/optimal-layout/).
-
-### Notes
-- Written & Published: *November 11 2017*
 
 ***
 

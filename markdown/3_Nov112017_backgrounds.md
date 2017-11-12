@@ -7,5 +7,7 @@ Loving space, naturally I clicked it. And wow. These photos are amazing. And the
 
 ![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
 
+- Written & Published: *November 11 2017*
+
 ***
 
