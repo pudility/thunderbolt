@@ -35,14 +35,6 @@ Loving space, naturally I clicked it. And wow. These photos are amazing. And the
 
 
 ---
-# Links
-- [Twitter](https://twitter.com/thunderboltblog)
-- [Github](https://github.com/pudility/thunderbolt)
-
-***
-
-
----
 # Remap Your Keyboard
 
 Do you use your *caps lock* key? Either way, you may want to consider remapping it. Especially if you have the new MacBook Pro with touch bar, the *escape* key is really hard to hit. Here is what I do, I have my *caps lock* key set to be *escape* when it is pressed alone and *shift+control+option+command* when pressed with another key. Then I have my windows mapped to those keys, so for example when I want to line up chrome in the space I have set aside fore it, I just hit *caps lock+C*.
@@ -73,6 +65,14 @@ Lets start up this blog! This is the first post. Its mostly just a test. Later t
 > Your time is limited, so don't waste it living someone else's life.
 
 ***
+
+---
+# Links
+- [Twitter](https://twitter.com/thunderboltblog)
+- [Github](https://github.com/pudility/thunderbolt)
+
+***
+
 
 ---
 ### Credits:
