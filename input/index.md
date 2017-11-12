@@ -1,16 +1,3 @@
-# Backgrounds
-
-Recently I was browsing r/worldnews and saw this post:
->[NASA's $1 Billion Juno Probe Has Been Sending Back Some Jaw-Dropping Photos of Jupiter](https://www.reddit.com/r/worldnews/comments/7bvqnl/nasas_1_billion_juno_probe_has_been_sending_back/)
-
-Loving space, naturally I clicked it. And wow. These photos are amazing. And they are perfect for backgrounds. [Here](https://www.nasa.gov/mission_pages/juno/images/index.html) is the full gallery if you want to take a look.
-
-![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
-
-***
-
-
----
 # iPhone Day
 
 Today is iPhone day for me. Most people got their iPhones last week, but last week I did not have the slightest idea I event wanted an iPhone. Before two days ago I had an android phone; More specifically I had the google pixel 2 xl, before that I had the original pixel and before that I had the onePlus. But my android stories are for another day. The reason I decided to switch to IOS is because of the iPhone X. My friend got one and let me use it - I immediately fell in love. I have a mac and an iPad, so IOS is not completely foreign to me. However I do not know all the ins and outs of the OS and I am *so* excited to learn more.
@@ -35,6 +22,19 @@ Today I woke up at `5:45 AM` in order to be the first one to reserve the iPhone 
 ***
 
 ---
+# Backgrounds
+
+Recently I was browsing r/worldnews and saw this post:
+>[NASA's $1 Billion Juno Probe Has Been Sending Back Some Jaw-Dropping Photos of Jupiter](https://www.reddit.com/r/worldnews/comments/7bvqnl/nasas_1_billion_juno_probe_has_been_sending_back/)
+
+Loving space, naturally I clicked it. And wow. These photos are amazing. And they are perfect for backgrounds. [Here](https://www.nasa.gov/mission_pages/juno/images/index.html) is the full gallery if you want to take a look.
+
+![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
+
+***
+
+
+---
 # Drones
 
 Recently I got into drone flying. Now, even though I am not very good, it is one of my favorite pass times. I got the parts for my quad from [Armattan](http://www.armattanquads.com/). I got the [Armadillo model](http://www.armattanquads.com/armadillo-1/), it is one of the most compact `5"` drones out there. I paired it with the [Turnigy Evolution](https://hobbyking.com/en_us/fpv-racer-radio-mode-2-black.html?___store=en_us) receiver. I like this receiver because it is super simple, feels great to hold, and looks amazing.
@@ -55,8 +55,7 @@ Glass fiber reinforced are mid stiffness mid strength
 
 The only thing that they left out is that glass fiber props break *a lot* more easily.
 
-##### Here is a photo of my drone. I think it is really pretty, but I'm partial.
-![drone](../images/drone.jpg)
+##### [Here is a photo of my drone. I think it is really pretty, but I'm partial.](../images/drone.jpg)
 
 - Written & Published: *November 12 2017*
 
