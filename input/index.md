@@ -51,7 +51,9 @@ If you end up getting a drone, I highly recommend Armattan. They will give you p
 
 ### Props
 
-Get lots of them. They will inevitably break. [@drill_on](https://www.reddit.com/user/Drill_on) sums it up pretty well in their [post on reddit](https://www.reddit.com/r/Multicopter/comments/2vl1wb/whats_the_difference_between_different_types_of/coimhsj/):
+Get lots of them. They will inevitably break.
+
+As for what props you should buy, [@drill_on](https://www.reddit.com/user/Drill_on) sums it up pretty well in their [post on reddit](https://www.reddit.com/r/Multicopter/comments/2vl1wb/whats_the_difference_between_different_types_of/coimhsj/):
 >Plastic props have different level of flex to them. This can be a problem for a number of reason, flex allows for more vibration creation, flex can allow them to hit the frame in small clearances. Flex means decreased lift during that flex, likely when your maneuvering and want it most.
 Glass fiber reinforced are mid stiffness mid strength
 
