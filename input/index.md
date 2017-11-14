@@ -1,33 +1,3 @@
-# Drones
-
-Recently I got into drone flying. Now, even though I am not very good, it is one of my favorite pass times. I got the parts for my quad from [Armattan](http://www.armattanquads.com/). I got the [Armadillo model](http://www.armattanquads.com/armadillo-1/), it is one of the most compact `5"` drones out there. I paired it with the [Turnigy Evolution](https://hobbyking.com/en_us/fpv-racer-radio-mode-2-black.html?___store=en_us) receiver. I like this receiver because it is super simple, feels great to hold, and looks amazing.
-
-### Practice
-
-If you try flying an FPV drone, you will quickly realize that it is **a lot** harder than it looks. I recommend that you try a simulator in order to practice your skills. I use the Drone Racing League Simulator, is not very realistic but it gets the job done and is really good for a free app.
-
-### Armattan
-
-If you end up getting a drone, I highly recommend Armattan. They will give you parts or they can also build it for you. They test to make sure everything is working, and they can customize every drone with special requests. I had an *amazing* experience.
-
-### Props
-
-Get lots of them. They will inevitably break.
-
-As for what props you should buy, [@drill_on](https://www.reddit.com/user/Drill_on) sums it up pretty well in their [post on reddit](https://www.reddit.com/r/Multicopter/comments/2vl1wb/whats_the_difference_between_different_types_of/coimhsj/):
->Plastic props have different level of flex to them. This can be a problem for a number of reason, flex allows for more vibration creation, flex can allow them to hit the frame in small clearances. Flex means decreased lift during that flex, likely when your maneuvering and want it most.
-Glass fiber reinforced are mid stiffness mid strength
-
-The only thing that they left out is that glass fiber props break *a lot* more easily.
-
-##### [Here is a photo of my drone. I think it is really pretty, but I'm partial.](../images/drone.jpg)
-
-- Written & Published: *November 12 2017*
-
-***
-
-
----
 # iPhone Day
 
 Today is iPhone day for me. Most people got their iPhones last week, but last week I did not have the slightest idea I event wanted an iPhone. Before two days ago I had an android phone; More specifically I had the google pixel 2 xl, before that I had the original pixel and before that I had the onePlus. But my android stories are for another day. The reason I decided to switch to IOS is because of the iPhone X. My friend got one and let me use it - I immediately fell in love. I have a mac and an iPad, so IOS is not completely foreign to me. However I do not know all the ins and outs of the OS and I am *so* excited to learn more.
@@ -62,6 +32,36 @@ Loving space, naturally I clicked it. And wow. These photos are amazing. And the
 ![Juno Probe Jupiter Photo](https://static.photocdn.pt/images/articles/2017/11/09/articles/2017_8/junojupiter.jpg)
 
 - Written & Published: *November 11 2017*
+
+***
+
+
+---
+# Drones
+
+Recently I got into drone flying. Now, even though I am not very good, it is one of my favorite pass times. I got the parts for my quad from [Armattan](http://www.armattanquads.com/). I got the [Armadillo model](http://www.armattanquads.com/armadillo-1/), it is one of the most compact `5"` drones out there. I paired it with the [Turnigy Evolution](https://hobbyking.com/en_us/fpv-racer-radio-mode-2-black.html?___store=en_us) receiver. I like this receiver because it is super simple, feels great to hold, and looks amazing.
+
+### Practice
+
+If you try flying an FPV drone, you will quickly realize that it is **a lot** harder than it looks. I recommend that you try a simulator in order to practice your skills. I use the Drone Racing League Simulator, is not very realistic but it gets the job done and is really good for a free app.
+
+### Armattan
+
+If you end up getting a drone, I highly recommend Armattan. They will give you parts or they can also build it for you. They test to make sure everything is working, and they can customize every drone with special requests. I had an *amazing* experience.
+
+### Props
+
+Get lots of them. They will inevitably break.
+
+As for what props you should buy, [@drill_on](https://www.reddit.com/user/Drill_on) sums it up pretty well in their [post on reddit](https://www.reddit.com/r/Multicopter/comments/2vl1wb/whats_the_difference_between_different_types_of/coimhsj/):
+>Plastic props have different level of flex to them. This can be a problem for a number of reason, flex allows for more vibration creation, flex can allow them to hit the frame in small clearances. Flex means decreased lift during that flex, likely when your maneuvering and want it most.
+Glass fiber reinforced are mid stiffness mid strength
+
+The only thing that they left out is that glass fiber props break *a lot* more easily.
+
+##### [Here is a photo of my drone. I think it is really pretty, but I'm partial.](../images/drone.jpg)
+
+- Written & Published: *November 12 2017*
 
 ***
 
