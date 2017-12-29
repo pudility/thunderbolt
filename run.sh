@@ -2,7 +2,7 @@
 
 npx babel tools --out-dir out --copy-files
 node ./out/writeMarkdownToHtmlFile.js
-generate-md --layout jasonm23-dark --input ./input --output ./output
+generate-md --layout bootstrap3 --input ./input --output ./output
 node ./out/after.js
 # open index.html
 surge --domain thunderbolt.blog
